@@ -5,7 +5,7 @@
 export default function Home() {
     return (
         <div>
-            
+            <h1>Games</h1>
         </div>
     );
 }
